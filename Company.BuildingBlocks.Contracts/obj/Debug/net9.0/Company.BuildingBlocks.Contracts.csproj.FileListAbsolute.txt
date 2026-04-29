@@ -1,0 +1,12 @@
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\bin\Debug\net9.0\Company.BuildingBlocks.Contracts.deps.json
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\bin\Debug\net9.0\Company.BuildingBlocks.Contracts.dll
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\bin\Debug\net9.0\Company.BuildingBlocks.Contracts.pdb
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\Company.BuildingBlocks.Contracts.csproj.AssemblyReference.cache
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\Company.BuildingBlocks.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\Company.BuildingBlocks.Contracts.AssemblyInfoInputs.cache
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\Company.BuildingBlocks.Contracts.AssemblyInfo.cs
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\Company.BuildingBlocks.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\Company.BuildingBlocks.Contracts.dll
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\refint\Company.BuildingBlocks.Contracts.dll
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\Company.BuildingBlocks.Contracts.pdb
+C:\Users\joelj\RiderProjects\Company.BuildingBlocks.Contracts\Company.BuildingBlocks.Contracts\obj\Debug\net9.0\ref\Company.BuildingBlocks.Contracts.dll

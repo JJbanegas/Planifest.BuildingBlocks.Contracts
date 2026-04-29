@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        
+        <!-- NuGet Package Metadata -->
+        <PackageId>Company.BuildingBlocks.Contracts</PackageId>
+        <Title>Company Building Blocks - Contracts</Title>
+        <Version>1.0.0</Version>
+        <Authors>Company</Authors>
+        <Description>Librería NuGet compartida para microservicios que proporciona configuraciones de excepciones globales, respuesta API genérica y contratos estándar siguiendo los estándares de la industria.</Description>
+        <PackageProjectUrl>https://github.com/company/building-blocks</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/company/building-blocks</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageReleaseNotes>Versión inicial con soporte para respuestas API genéricas y manejo de excepciones.</PackageReleaseNotes>
+        <PackageTags>building-blocks;contracts;api-response;exception-handling;middleware</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="9.0.0" />
+    </ItemGroup>
+
+</Project>
